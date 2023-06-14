@@ -2,7 +2,9 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="20dp">
+    android:padding="20dp"
+    android:background="@drawable/img_2"
+    >
 
 
 
@@ -13,6 +15,8 @@
         android:textDirection="anyRtl"
         android:text="بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
         android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
         />
 
 

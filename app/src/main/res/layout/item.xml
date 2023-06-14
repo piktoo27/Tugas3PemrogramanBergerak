@@ -18,6 +18,7 @@
         android:layout_alignParentEnd="true"
         android:text="الفاتحةِ"
         android:textSize="20dp"
+        android:textColor="@color/black"
         android:textStyle="bold" />
 
     <TextView
@@ -25,7 +26,9 @@
         android:layout_below="@id/tvSurahArab"
         android:text="Pembukaan"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="italic"/>
 
 
 
